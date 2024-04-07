@@ -16,9 +16,10 @@ To get started with the Password Generator, follow these simple steps:
 
 What things you need to install the software and how to install them:
 
-   ```bash
-   # Python 3
-   # Tkinter library (usually comes with Python 3)
+```bash
+# Python 3
+# Tkinter library (usually comes with Python 3)
+```
 
 1. Clone the repository:
    ```bash
