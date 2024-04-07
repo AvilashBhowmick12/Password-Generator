@@ -41,7 +41,14 @@ To get started with the Password Generator, follow these simple steps:
    License
    Distributed under the MIT License. See LICENSE for more information.
 
-6. Contact
-   ```bash
-   Your Name - Avilash Bhowmick
-   Portfolio Link : https://avilashbhowmick12.github.io/html-css-website4.0/
+## Contact
+
+If you have any questions about the Password Generator, want to connect, or discuss potential collaborations, feel free to reach out!
+
+- **Portfolio:** [Avilash Bhowmick](https://avilashbhowmick12.github.io/html-css-website4.0/)
+- **GitHub:** [@yourgithubusername](https://github.com/AvilashBhowmick12)
+- **LinkedIn:** [Avilash Bhowmick](https://www.linkedin.com/in/avilash-bhowmick-497b24223/)
+
+Don't hesitate to drop a ⭐ on the repository if you find the Password Generator useful!
+
+Back to Top
