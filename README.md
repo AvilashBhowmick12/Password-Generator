@@ -29,8 +29,18 @@ What things you need to install the software and how to install them:
    cd password-generator
 
 3. Run the application:
+
+You can run either of the two applications as follows:
+
+For the standard password generator:
    ```bash
-   python3 password_generator.py
+   python3 passwordgenerator.py
+   ```
+
+For the advanced password generator:
+   ```bash
+   python3 passwordgenerator4.py
+   ```
 
 4. How to Use
    ```bash
