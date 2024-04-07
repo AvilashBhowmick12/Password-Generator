@@ -12,9 +12,17 @@ Password Generator! This tool is designed to provide you with secure, random pas
 
 To get started with the Password Generator, follow these simple steps:
 
+### Prerequisites
+
+What things you need to install the software and how to install them:
+
+   ```bash
+   # Python 3
+   # Tkinter library (usually comes with Python 3)
+
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/password-generator.git
+   git clone https://github.com/AvilashBhowmick12/password-generator.git
 2. Navigate to the project directory:
    ```bash
    cd password-generator
