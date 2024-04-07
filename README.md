@@ -15,3 +15,33 @@ To get started with the Password Generator, follow these simple steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/password-generator.git
+2. Navigate to the project directory:
+   ```bash
+   cd password-generator
+
+3. Run the application:
+   ```bash
+   python3 password_generator.py
+
+4. How to Use
+   ```bash
+   1. Launch the application.
+   2. Use the slider or enter a number to set your desired password length.
+   3. Click ‘Generate’ to create a new password.
+   4. Use the ‘Copy’ button to copy the password to your clipboard.
+   5. Contributing
+   6. Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+5. Fork the Project
+   ```bash
+   Create your Feature Branch (git checkout -b feature/AmazingFeature)
+   Commit your Changes (git commit -m 'Add some AmazingFeature')
+   Push to the Branch (git push origin feature/AmazingFeature)
+   Open a Pull Request
+   License
+   Distributed under the MIT License. See LICENSE for more information.
+
+6. Contact
+   ```bash
+   Your Name - Avilash Bhowmick
+   Portfolio Link : https://avilashbhowmick12.github.io/html-css-website4.0/
